@@ -1,1 +1,3 @@
 ## About
+
+While their are a number of similarities, written and spoken language differ in a number of key points. One such difference is in the permenance of the speech. Spoken language only exists as long as it remains in the heads of the listeners, but written language leaves an artifact behind as a record of what has been said. Much of the communication on the internet is held through written form and as such, records are left beheind about what is said. Tools such as the [Wayback Machine](http://archive.org/web/) allow people to view the history of website and what was written on them as specific points in time.
