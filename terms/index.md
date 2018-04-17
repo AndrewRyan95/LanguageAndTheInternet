@@ -1,4 +1,4 @@
-## [Cant](cant.html)
+## [Cant](Cant.html)
 
 ## [Modal Affordance](Modal_Affordance.html)
 
