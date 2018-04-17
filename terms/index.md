@@ -1,7 +1,7 @@
-##[Cant](/terms/cant)
+## [Cant](cant.html)
 
-##[Modal Affordance](/terms/Modal_Affordance)
+## [Modal Affordance](Modal_Affordance.html)
 
-##[Public Key Encryption](/terms/Public_Key_Encryption)
+## [Public Key Encryption](Public_Key_Encryption.html)
 
-##[Stylometry](/Stylometry)
+## [Stylometry](Stylometry.html)
