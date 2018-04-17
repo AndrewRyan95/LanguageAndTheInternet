@@ -6,3 +6,6 @@ A method of sharing private messages through using a publicly shared key to enco
 
 ## Modal Affordance
 What features and and constraints a platform has which affects the way speech conducted on it
+
+## Cant
+A secret language used to exclude outsiders from conversations
