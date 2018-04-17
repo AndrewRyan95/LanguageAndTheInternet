@@ -1,5 +1,7 @@
 ## [Cant](Cant.md)
 
+## [Cryptography](Cryptography.md)
+
 ## [Modal Affordance](Modal_Affordance.md)
 
 ## [Public Key Encryption](Public_Key_Encryption.md)
