@@ -1,2 +1,2 @@
 ## Cryptography
-A method of converting information into a scrambled up coded form so that only the intended recipient can decode it.
+The science of using codes to secure communication.
