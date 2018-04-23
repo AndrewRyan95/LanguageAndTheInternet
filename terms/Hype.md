@@ -1,2 +1,2 @@
 ## Hype
-An extreme view that only looks at the good traits of something.
+An extreme view that only looks at the good positive of something.
